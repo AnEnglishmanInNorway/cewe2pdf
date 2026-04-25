@@ -428,6 +428,7 @@
   <ItemGroup>
     <InterpreterReference Include="CondaEnv|CondaEnv|cewe2pdf312" />
     <InterpreterReference Include="CondaEnv|CondaEnv|cewe2pdfenv" />
+    <InterpreterReference Include="CondaEnv|CondaEnv|cewe2pdfguienv" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <PropertyGroup>
